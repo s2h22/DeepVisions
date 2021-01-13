@@ -5,9 +5,8 @@ tf2 \
 bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
-### raw, output
+### output
 <p align="center">
-    <img src="raw.png" width=600></br>
     <img src="output.png" width=600></br>
 </p>
 
