@@ -8,6 +8,7 @@ bb, ResNet50 \
 ### output
 <p align="left">
     <img src="output.png" width=600></br>
+    <img src="la.png" width=600></br>
 </p>
 
 ### trained weights
