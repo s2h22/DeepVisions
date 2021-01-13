@@ -15,6 +15,7 @@ bb, ResNet50 \
 <p align="left">
     <img src="la.png" width=600></br>
 </p>
+
 [model_v2]( https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing)
 
 ### how to use
