@@ -16,4 +16,4 @@ bb, ResNet50 \
 
 ### to do
 - [x] python packaging
-- [] metrics extraction
+- [ ] metrics extraction
