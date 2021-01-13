@@ -1,9 +1,9 @@
 # DeepVisions_repo
 
 ## 1. DeepLabV3+
-tf2 \
-bb, ResNet50 \
-\+ Atrous Spatial Pyramid Pooling
+tf2
+bb, ResNet50
++ Atrous Spatial Pyramid Pooling
 
 ### raw
 ![](raw.png)
@@ -11,5 +11,9 @@ bb, ResNet50 \
 ### output
 ![](output.png)
 
-## Trained weights
+### trained weights
 [model_v2]( https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing)
+
+### to do
+- [x] python packaging
+- [] metrics extraction
