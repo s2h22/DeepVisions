@@ -12,9 +12,9 @@ bb, ResNet50 \
 </p>
 
 ### trained weights
-'''
+"""
 [model_v2]( https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing)
-'''
+"""
 
 ### to do
 - [x] python packaging
