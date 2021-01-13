@@ -15,5 +15,6 @@ bb, ResNet50 \
 [model_v2]( https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing)
 
 ### to do
-- [x] python packaging & upload
+- [x] python packaging
 - [ ] metrics extraction
+- [ ] package upload
