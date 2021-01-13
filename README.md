@@ -1,9 +1,8 @@
-# DeepVisions
-This repo is for sharing python packages
+# DeepVisions_repo
 
-## DeepLabV3+
+## 1. DeepLabV3+
 tf2 \
 bb, ResNet50 \
-Atrous Spatial Pyramid Pooling
+\+ Atrous Spatial Pyramid Pooling
 
 ### raw
