@@ -19,7 +19,7 @@ bb, ResNet50 \
 
 ### how to use
 ```
-(1) upload png files in 'images' folder
+(1) upload png files to 'images' folder
 (2) sudo sh apps.sh
 (3) see the results in 'outputs' folder
 ```
