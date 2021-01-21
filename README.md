@@ -21,11 +21,11 @@ bb, ResNet50 \
 ```
 (1) upload png files to 'images' folder
 (2) python main.py
-    # add --eval to evaluate the model performance
+    # add -e to evaluate the [***model_v2***](https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing) performance on the cityscape dataset
 (3) see the results in 'outputs' folder
 ```
 
 ### to do
-- [ ] performance evaluation
+- [x] performance evaluation
 - [ ] python packaging
 - [ ] package upload
