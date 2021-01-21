@@ -19,13 +19,12 @@ bb, ResNet50 \
 
 ### how to use
 ```
-(1) upload png files to 'images' folder
+(1) upload png files to the 'images' folder
 (2) python main.py
-    # add -e to evaluate
-(3) see the results in 'outputs' folder
+(3) see the results in the 'outputs' folder
 ```
 
 ### to do
-- [x] performance evaluation
-- [ ] python packaging
+- [x] OA evaluation
+- [x] python packaging
 - [ ] package upload
