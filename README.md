@@ -22,7 +22,6 @@ bb, ResNet50 \
 (1) upload png files to 'images' folder
 (2) python main.py
     # add --eval to evaluate the model performance
-    # python main.py --eval
 (3) see the results in 'outputs' folder
 ```
 
