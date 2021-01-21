@@ -20,7 +20,9 @@ bb, ResNet50 \
 ### how to use
 ```
 (1) upload png files to 'images' folder
-(2) sudo sh apps.sh
+(2) python main.py
+    # add --eval to evaluate the model performance
+    # python main.py --eval
 (3) see the results in 'outputs' folder
 ```
 
