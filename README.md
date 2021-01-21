@@ -21,7 +21,7 @@ bb, ResNet50 \
 ```
 (1) upload png files to 'images' folder
 (2) python main.py
-    # add -e to evaluate the [***model_v2***](https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing) performance on the cityscape dataset
+    add -e to evaluate the [***model_v2***](https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing) performance on the cityscape dataset
 (3) see the results in 'outputs' folder
 ```
 
