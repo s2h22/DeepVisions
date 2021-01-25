@@ -6,7 +6,7 @@ tf2 \
 bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
-### trained weights
+### training
 <p align="left">
     <img src="la.png" width=600></br>
 </p>
