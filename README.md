@@ -9,9 +9,10 @@ bb, ResNet50 \
 ### trained weights
 <p align="left">
     <img src="la.png" width=600></br>
+    *top performance among 500 epochs above*
 </p>
 
-*top performance among 500 epochs above*
+
 
 ### example
 <p align="left">
