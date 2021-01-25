@@ -15,6 +15,7 @@ bb, ResNet50 \
 <p align="left">
     <img src="la.png" width=600></br>
 </p>
+
 *top performance among 500 epochs below*
 
 ### how to use
