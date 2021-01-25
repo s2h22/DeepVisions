@@ -11,7 +11,7 @@ bb, ResNet50 \
     <img src="output.png" width=600></br>
 </p>
 
-### trained weights
+### trained weights[^1]
 [***model_v2***](https://drive.google.com/file/d/10EBMPQvXulhmMphpqLgsyVX_5YrDVRYs/view?usp=sharing): *top performance among 500 epochs below*
 <p align="left">
     <img src="la.png" width=600></br>
