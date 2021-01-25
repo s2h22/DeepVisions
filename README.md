@@ -6,17 +6,17 @@ tf2 \
 bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
-### example
-<p align="left">
-    <img src="output.png" width=600></br>
-</p>
-
 ### trained weights
 <p align="left">
     <img src="la.png" width=600></br>
 </p>
 
 *top performance among 500 epochs above*
+
+### example
+<p align="left">
+    <img src="output.png" width=600></br>
+</p>
 
 ### how to use
 ```
