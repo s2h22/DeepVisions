@@ -19,8 +19,8 @@ bb, ResNet50 \
 
 ### how to use
 ```
-(1) upload png files to the 'images' folder
-(2) python main.py
+(1) upload *png* files to the 'images' folder
+(2) sh apps.sh
 (3) see the results in the 'outputs' folder
 ```
 
