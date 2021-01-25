@@ -5,10 +5,10 @@ bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
 ## trained weights
-<p align="left">
-    <img src="la.png" width=600></br>[^1]
-    [^1]: *top performance among 500 epochs below*
+<p align="left">[^1]
+    <img src="la.png" width=600></br>
 </p>
+[^1]: *top performance among 500 epochs below*
 
 ## example
 <p align="left">
