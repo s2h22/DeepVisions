@@ -6,9 +6,6 @@ bb, ResNet50 \
 
 ## trained weights
 ***model_v3***: *coming soon*
-<p align="left">
-    <img src="la.png" width=600></br>
-</p>
 
 ## example
 <p align="left">
