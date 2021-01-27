@@ -5,9 +5,7 @@ bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
 ## trained weights
-***model_v3***: *coming soon*
-
-## example
+***model_v3***
 <p align="left">
     <img src="output.png" width=600></br>
 </p>
