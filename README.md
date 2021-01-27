@@ -6,7 +6,7 @@ bb, ResNet50 \
 
 ## example
 <p align="left">
-    <img src="asd.png" width=600></br>
+    <img src="output.png" width=600></br>
 </p>
 
 ## how to use
