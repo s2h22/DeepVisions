@@ -4,10 +4,9 @@ tf2 \
 bb, ResNet50 \
 \+ Atrous Spatial Pyramid Pooling
 
-## trained weights
-***model_v3***
+## example
 <p align="left">
-    <img src="output.png" width=600></br>
+    <img src="asd.png" width=600></br>
 </p>
 
 ## how to use
