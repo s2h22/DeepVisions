@@ -22,7 +22,9 @@ It attempts to reproduce [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) se
 It attempts to reproduce [***EfficientDet***](https://arxiv.org/abs/1911.09070) object detection model based on tf2.
 
 ## example
-
+<p align="left">
+    <img src="0.jpg" width=600></br>
+</p>
 
 ## how to use
 ```
