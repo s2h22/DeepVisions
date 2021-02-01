@@ -1,5 +1,5 @@
 # 1. DeepLabV3+
-It attempts to reproduce [***DeepLabv3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model based on tf2.
+It attempts to reproduce [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model based on tf2.
 
 ## example
 <p align="left">
