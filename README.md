@@ -1,4 +1,4 @@
-*Author's Note: I've tried to make codes as short and readable as possible bc I DISLIKE TOO LONG AND SPECIFIC CODES HARD TO UNDERSTAND.*
+*Author's Note: I've tried to make codes as short and readable as possible.*
 
 # 1. DeepLabV3+
 It attempts to reproduce [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model based on tf2.
