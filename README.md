@@ -36,6 +36,6 @@ It attempts to reproduce [***EfficientDet***](https://arxiv.org/abs/1911.09070) 
 ```
 
 ## to do
-- [x] detected mIoU evaluation  - cancelled
-- [ ] python packaging - cancelled
+- [x] detected mIoU evaluation
+- [ ] ~~python packaging
 - [ ] package upload ***Note that it would be shared only upon request***
