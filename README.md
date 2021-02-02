@@ -18,7 +18,7 @@ It attempts to reproduce [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) se
 ## to do
 - [x] OA evaluation
 - [x] python packaging
-- [ ] package upload
+- [ ] package upload ***Note that it would be shared only upon request***
 
 # 2. EfficientDet
 It attempts to reproduce [***EfficientDet***](https://arxiv.org/abs/1911.09070) object detection model based on tf2.
@@ -36,6 +36,6 @@ It attempts to reproduce [***EfficientDet***](https://arxiv.org/abs/1911.09070) 
 ```
 
 ## to do
-- [ ] OA evaluation
-- [ ] python packaging
-- [ ] package upload
+- [x] detected mIoU evaluation  - cancelled
+- [ ] python packaging - cancelled
+- [ ] package upload ***Note that it would be shared only upon request***
