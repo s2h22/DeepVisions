@@ -1,7 +1,9 @@
 *Author's Note: I've tried to make codes as short and readable as possible.*
 
 # 1. DeepLabV3+
-It aims to customize [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model for the ***[NIA](https://www.nia.or.kr/site/nia_kor/main.do) autonomous vehicles data collection project*** based on tf2.
+It aims to customize [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model for \
+for the ***[NIA](https://www.nia.or.kr/site/nia_kor/main.do) autonomous vehicles data collection project*** \
+based on tf2.
 
 ## example
 <p align="left">
@@ -21,7 +23,9 @@ It aims to customize [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semant
 - [ ] ~~package upload~~ ***\*Note that it would be shared only upon request***
 
 # 2. EfficientDet
-It aims to customize [***EfficientDet***](https://arxiv.org/abs/1911.09070) object detection model for DATA CONSTRUCTION PROJECT of NIA based on tf2.
+It aims to customize [***EfficientDet***](https://arxiv.org/abs/1911.09070) object detection model for \
+the ***[NIA](https://www.nia.or.kr/site/nia_kor/main.do) autonomous vehicles data collection project*** \
+based on tf2.
 
 ## example
 <p align="left">
