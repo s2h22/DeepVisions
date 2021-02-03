@@ -20,7 +20,7 @@ based on tf2.
 ## to do
 - [x] OA evaluation
 - [x] python packaging
-- [ ] ~~package upload~~ ***\*note that it would be shared only upon request***
+- [ ] ~~package upload~~ ***\*note that it would be shared upon request***
 
 # 2. EfficientDet
 It aims to customize [***EfficientDet***](https://arxiv.org/abs/1911.09070) object detection model for the \
@@ -42,4 +42,4 @@ based on tf2.
 ## to do
 - [x] detected mIoU evaluation
 - [ ] ~~python packaging~~
-- [ ] ~~package upload~~ ***\*note that it would be shared only upon request***
+- [ ] ~~package upload~~ ***\*note that it would be shared upon request***
