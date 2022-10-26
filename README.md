@@ -1,7 +1,6 @@
 # 1. DeepLabV3+
-It aims to revise the [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model for the \
-***[NIA](https://www.nia.or.kr/site/nia_kor/main.do) autonomous vehicles data construction project*** \
-based on tf2.
+It aims to revise the [***DeepLabV3+***](https://arxiv.org/abs/1802.02611) semantic segmentation model
+for the ***[NIA](https://www.nia.or.kr/site/nia_kor/main.do) autonomous vehicles data construction project*** based on tf2.
 
 ## example
 <p align="left">
